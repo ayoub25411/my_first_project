@@ -1,5 +1,5 @@
 // Simple script example
-console.log("Hello World from script.js");
+console.log("Hello World from ayoub's script!");
 
 // Optional: Change the text color when clicked
 const text = document.querySelector(".center-text");
