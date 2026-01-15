@@ -1,0 +1,19 @@
+/* Make the text appear in the center of the screen */
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* horizontal center */
+    align-items: center;     /* vertical center */
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+.center-text {
+    font-size: 3rem;
+    color: #333;
+}
+.center-text:hover {
+    color: #007BFF;
+    cursor: pointer;
+}
